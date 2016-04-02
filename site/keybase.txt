@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/zxjinn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.zxjinn.com
+  * I am zxjinn (https://keybase.io/zxjinn) on keybase.
+  * I have a public key ASAnw-qN-Rfum_40Q2jPpbCSKd1TW_SUpgcDbdbsAsxVhwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012027c3ea8df917ee9bfe344368cfa5b09229dd535bf494a607036dd6ec02cc55870a",
+            "host": "keybase.io",
+            "kid": "012027c3ea8df917ee9bfe344368cfa5b09229dd535bf494a607036dd6ec02cc55870a",
+            "uid": "323c26abc47be07770fa5544b013b719",
+            "username": "zxjinn"
+        },
+        "service": {
+            "hostname": "www.zxjinn.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.7"
+    },
+    "ctime": 1454973767,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454973750,
+        "hash": "6e7ab34b226dc627ed0b84cf05d7d31614518250f950cf3a83fa8e23fa0a6dec706cae9e7483f6539ab8d7bad808652b22446fe8d7259e9f59d0b960d6784cae",
+        "seqno": 377798
+    },
+    "prev": "d84ae7614d032f465e6bb9f04ea525bd10f1de0c83138d59823ccf8bdfcb884b",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ8PqjfkX7pv+NENoz6WwkindU1v0lKYHA23W7ALMVYcKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjdjM2VhOGRmOTE3ZWU5YmZlMzQ0MzY4Y2ZhNWIwOTIyOWRkNTM1YmY0OTRhNjA3MDM2ZGQ2ZWMwMmNjNTU4NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjdjM2VhOGRmOTE3ZWU5YmZlMzQ0MzY4Y2ZhNWIwOTIyOWRkNTM1YmY0OTRhNjA3MDM2ZGQ2ZWMwMmNjNTU4NzBhIiwidWlkIjoiMzIzYzI2YWJjNDdiZTA3NzcwZmE1NTQ0YjAxM2I3MTkiLCJ1c2VybmFtZSI6Inp4amlubiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3Lnp4amlubi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC43In0sImN0aW1lIjoxNDU0OTczNzY3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTQ5NzM3NTAsImhhc2giOiI2ZTdhYjM0YjIyNmRjNjI3ZWQwYjg0Y2YwNWQ3ZDMxNjE0NTE4MjUwZjk1MGNmM2E4M2ZhOGUyM2ZhMGE2ZGVjNzA2Y2FlOWU3NDgzZjY1MzlhYjhkN2JhZDgwODY1MmIyMjQ0NmZlOGQ3MjU5ZTlmNTlkMGI5NjBkNjc4NGNhZSIsInNlcW5vIjozNzc3OTh9LCJwcmV2IjoiZDg0YWU3NjE0ZDAzMmY0NjVlNmJiOWYwNGVhNTI1YmQxMGYxZGUwYzgzMTM4ZDU5ODIzY2NmOGJkZmNiODg0YiIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEADpRLzcJnIscyjyNFmgPrGi1ouCoApQaUk2Tckoj8IAemBbY5yig108yPmxpkIWEehHfu80OPC8nsI9731KBQIqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zxjinn
+
+==================================================================
