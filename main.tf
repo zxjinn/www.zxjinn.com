@@ -16,16 +16,6 @@ resource "aws_s3_bucket" "www" {
     index_document = "index.html"
   }
 }
-resource "aws_s3_bucket" "zxjinn.com" {
-  acl    = "public-read"
-  bucket = "www.zxjinn.com"
-  policy ="${file("allow_all_get.json")}"
-  website {
-    error_document = "index.html"
-    index_document = "index.html"
-  }
-}
-
 
 resource "aws_s3_bucket_object" "index" {
   bucket       = "www.zxjinn.com"
